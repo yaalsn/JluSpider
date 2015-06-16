@@ -1,3 +1,1 @@
-# JluSpider
-
-> bs4, PIL, tesseract-ocr, pytesseract
+ bs4, PIL, tesseract-ocr, pytesseract
